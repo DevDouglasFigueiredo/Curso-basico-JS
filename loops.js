@@ -4,6 +4,7 @@ const listaDeDestinos = new Array(
     'Salvador',
     'Sao Paulo',
     'Rio de Janeiro'
+    
 );
 
 const idadeComprador = 18;

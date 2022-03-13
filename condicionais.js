@@ -17,7 +17,7 @@ const temPassagemComprada = true;
 //     console.log('esta acompanhada de um maior de idade')
 // }
 // else {
-//     console.log('nao eh maior de idade, nao podemos vender')
+//     console.log('nao eh maior de idade, nao podemos vender!')
 // }
 
 if (idadeComprador >= 18 || estaAcompanhada == true ) {

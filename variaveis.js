@@ -5,7 +5,7 @@ console.log("trabalhando com variaveis")
 
 const idade = 29;
 const nome = "Ricardo"
-
+//
 // mes = 'janeiro'
 //nao fazer desse jeito!
 

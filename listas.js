@@ -4,7 +4,7 @@ const salvador = 'Salavdor';
 const saoPaulo = 'Sao Paulo';
 const rioDeJaneiro = 'Rio de Janeiro';
 
-const listaDeDestinos = new Array( //isso é um array , ele pode ter varios valores dentro dele.
+const listaDeDestinos = new Array( //isso é um array , ele pode ter varios valores dentro dele...
 'Salvador',
 'Sao Paulo',
 'Rio de Janeiro'
