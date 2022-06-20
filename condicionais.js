@@ -1,12 +1,11 @@
 console.log(`trabalhando com condicionais`);
-
 const listaDeDestinos = new Array(
     'Salvador',
     'Sao Paulo',
     'Rio de Janeiro'
 );
 
-const idadeComprador = 18;
+const idadeComprador = 17;
 const estaAcompanhada = false;
 const temPassagemComprada = true;
 
